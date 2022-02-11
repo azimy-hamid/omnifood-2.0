@@ -1,0 +1,14 @@
+{
+  "icons": [
+    {
+      "src": "C:\Programming\Omnifood_2.0\img\favicon-192.png",
+      "type": "img/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "C:\Programming\Omnifood_2.0\img\favicon-512.png",
+      "type": "img/png",
+      "sizes": "512x512"
+    }
+  ]
+}
